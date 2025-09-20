@@ -46,11 +46,11 @@ Agriculture, FoodTech & Rural Development
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-                                                                -----------------------------
-                                                                   ----------------------
-                                                                   ::  PROPOSED SOLUTION  :: 
-                                                                   ----------------------
-                                                                ------------------------------
+                                                            -----------------------------
+                                                              ----------------------
+                                                                 ::  PROPOSED SOLUTION  :: 
+                                                                       ----------------------
+                                                                          ------------------------------
 ``` [ The solution is a multilingual, AI-powered mobile application and chatbot designed to give farmers real-time, personalized crop advisory. The system uses soil data, weather forecasts, crop history, and market information to recommend the right crop, suitable fertilizer dosage, and timely pest/disease management steps. ]
 
 [ It directly addresses the main problems faced by small and marginal farmers—such as overuse of inputs, dependence on unreliable sources, and lack of access to scientific insights—by delivering simple, actionable advice in their local language with voice support. ]
