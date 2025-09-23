@@ -57,7 +57,8 @@ Agriculture, FoodTech & Rural Development
 
 [ The innovation lies in combining multiple technologies—AI/ML models, computer vision for pest detection, weather-based predictive analytics, and market price alerts—into a single easy-to-use platform. Unlike generic advisory systems, this solution is localized, farmer-friendly, and accessible even in low-connectivity areas through offline and SMS support. ] ```
 
-![Uploading sih flowchart.PNG…]()
+<img width="167" height="472" alt="sih flowchart" src="https://github.com/user-attachments/assets/545c6fe3-5c1a-4adb-87b2-295dfa92a20c" />
+
         
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
