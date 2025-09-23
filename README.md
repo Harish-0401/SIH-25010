@@ -56,67 +56,9 @@ Agriculture, FoodTech & Rural Development
 [ It directly addresses the main problems faced by small and marginal farmers—such as overuse of inputs, dependence on unreliable sources, and lack of access to scientific insights—by delivering simple, actionable advice in their local language with voice support. ]
 
 [ The innovation lies in combining multiple technologies—AI/ML models, computer vision for pest detection, weather-based predictive analytics, and market price alerts—into a single easy-to-use platform. Unlike generic advisory systems, this solution is localized, farmer-friendly, and accessible even in low-connectivity areas through offline and SMS support. ] ```
-            +------------------+
-            |     Start        |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            |  Collect Data    |
-            |-----------------|
-            | Soil Data        |
-            | Weather Forecast |
-            | Crop History     |
-            | Market Info      |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            |  AI/ML Processing|
-            +------------------+
-                     |
-                     v
-            +------------------+
-            | Decision Engine  |
-            |-----------------|
-            | Crop Recommendation |
-            | Fertilizer Dosage   |
-            | Pest/Disease Mgmt   |
-            | Market Price Alerts |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            | Local Language   |
-            | Advisory         |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            | Delivery to      |
-            | Farmer           |
-            |-----------------|
-            | Mobile App       |
-            | Voice Support    |
-            | SMS/Offline      |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            | Farmer Acts on   |
-            | Recommendations |
-            +------------------+
-                     |
-                     v
-            +------------------+
-            | Feedback Loop to |
-            | Improve AI       |
-            +------------------+
-                     |
-                     v
-                    (Back to AI/ML Processing)
 
-
+![Uploading sih flowchart.PNG…]()
+        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## Technical Approach 
