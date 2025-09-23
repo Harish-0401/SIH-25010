@@ -57,7 +57,8 @@ Agriculture, FoodTech & Rural Development
 
 [ The innovation lies in combining multiple technologies—AI/ML models, computer vision for pest detection, weather-based predictive analytics, and market price alerts—into a single easy-to-use platform. Unlike generic advisory systems, this solution is localized, farmer-friendly, and accessible even in low-connectivity areas through offline and SMS support. ] ```
 
-![Uploading fwc.png…]()
+<img width="162" height="496" alt="fwc" src="https://github.com/user-attachments/assets/501f9784-54c2-4704-8634-dd1f8b97374a" />
+
 
 
         
