@@ -46,16 +46,12 @@ Agriculture, FoodTech & Rural Development
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-                                                            -----------------------------
-                                                              ----------------------
-                                                                 ::  PROPOSED SOLUTION  :: 
-                                                                       ----------------------
-                                                                          ------------------------------
-``` [ The solution is a multilingual, AI-powered mobile application and chatbot designed to give farmers real-time, personalized crop advisory. The system uses soil data, weather forecasts, crop history, and market information to recommend the right crop, suitable fertilizer dosage, and timely pest/disease management steps. ]
+                                                           
+ [ The solution is a multilingual, AI-powered mobile application and chatbot designed to give farmers real-time, personalized crop advisory. The system uses soil data, weather forecasts, crop history, and market information to recommend the right crop, suitable fertilizer dosage, and timely pest/disease management steps. ]
 
 [ It directly addresses the main problems faced by small and marginal farmers—such as overuse of inputs, dependence on unreliable sources, and lack of access to scientific insights—by delivering simple, actionable advice in their local language with voice support. ]
 
-[ The innovation lies in combining multiple technologies—AI/ML models, computer vision for pest detection, weather-based predictive analytics, and market price alerts—into a single easy-to-use platform. Unlike generic advisory systems, this solution is localized, farmer-friendly, and accessible even in low-connectivity areas through offline and SMS support. ] ```
+[ The innovation lies in combining multiple technologies—AI/ML models, computer vision for pest detection, weather-based predictive analytics, and market price alerts—into a single easy-to-use platform. Unlike generic advisory systems, this solution is localized, farmer-friendly, and accessible even in low-connectivity areas through offline and SMS support. ] 
 
 <img width="162" height="496" alt="fwc" src="https://github.com/user-attachments/assets/501f9784-54c2-4704-8634-dd1f8b97374a" />
 
